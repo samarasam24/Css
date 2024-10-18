@@ -43,4 +43,16 @@ footer{
 }
 .card-container:hover footer{
     opacity: 0;
+} 
+.one{
+    position: absolute;
+    left: 60%;
+    top: 40%;
+}
+.lolo{
+    filter: grayscale(100%);
+    transition: 1s linear;
+}
+.lolo:hover{
+    filter: grayscale(0);
 }
